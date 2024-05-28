@@ -5,6 +5,7 @@ cycler==0.12.1
 diskcache==5.6.3
 distro==1.9.0
 docker==7.1.0
+streamlit
 FLAML==2.1.2
 fonttools==4.52.4
 frozendict==2.4.4
@@ -28,7 +29,4 @@ termcolor==2.4.0
 tiktoken==0.7.0
 tqdm==4.66.4
 webencodings==0.5.1
-websocket-client @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d37u7gqts8/croot/websocket-client_1715878310260/work
-widgetsnbextension @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_45ynevdsp5/croot/widgetsnbextension_1710960054121/work
-wrapt @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_37a5af2b-c563-4ec6-9258-35772bae6a6agcs4j3hx/croots/recipe/wrapt_1657814428573/work
 yfinance==0.2.40
